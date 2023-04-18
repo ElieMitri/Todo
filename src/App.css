@@ -62,6 +62,6 @@ body {
 .todo {
   color: rgb(255, 255, 255);
   list-style-type: none;
-  font-size: 24px;
-  font-weight: bold;
+  font-size: 20px;
+  margin: 20px 0;
 }
